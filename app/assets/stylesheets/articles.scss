@@ -6,6 +6,7 @@ body {
   font-size: 20px;
   color: #212529;
   font-family: 'Lora', 'Times New Roman', serif;
+  margin: 150px;
 }
 
 p {
@@ -60,4 +61,12 @@ a:focus, a:hover {
 .post-meta > a:hover {
   text-decoration: underline;
   color: #0085A1;
+}
+th {
+  padding-right: 35px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+td {
+  padding-right: 35px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
